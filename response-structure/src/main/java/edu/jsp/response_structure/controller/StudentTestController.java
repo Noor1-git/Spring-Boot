@@ -22,5 +22,4 @@ public class StudentTestController {
 		structure.setData(student);
 		return structure;
 	}
-
 }
